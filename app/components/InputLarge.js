@@ -3,10 +3,9 @@ import styled from "styled-components";
 import Input from "./Input";
 
 const InputLarge = styled(Input)`
-  height: 38px;
+  height: 40px;
   flex-grow: 1;
-  margin-right: 8px;
-
+  margin-right: 5px;
   input {
     height: 38px;
   }
